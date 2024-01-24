@@ -1,12 +1,16 @@
 ## Intro
-This package requires node and npm
-I recommend you install http-server to server it locally
+This package requires `node` and `npm`
+I recommend you install `http-server` to server it locally
 
 ## Install
+```
 npm install
+```
 
 ## Run when updating your images folder
-node build
+```
+node images
 node optimise
+```
 
-## Set your default folder in index.html
+## Set your default folder in `index.html`
