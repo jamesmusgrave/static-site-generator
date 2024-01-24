@@ -6,5 +6,7 @@ I recommend you install http-server to server it locally
 npm install
 
 ## Run when updating your images folder
-node images
+node build
 node optimise
+
+## Set your default folder in index.html
