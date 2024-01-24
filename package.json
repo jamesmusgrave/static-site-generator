@@ -1,0 +1,14 @@
+{
+  "name": "photography.jamesmusgrave.com",
+  "version": "1.0.0",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "sharp": "^0.31.3"
+  }
+}
